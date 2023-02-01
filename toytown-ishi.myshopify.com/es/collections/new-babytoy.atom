@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://toytown-ishi.myshopify.com/es/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://toytown-ishi.myshopify.com/es/collections/new-babytoy.atom"/>
+  <title>Toytown Sectioned Shopify Theme</title>
+  <updated>2020-08-28T00:44:34-12:00</updated>
+  <author>
+    <name>Toytown Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+    <published>2020-08-28T00:44:34-12:00</published>
+    <updated>2020-08-28T00:44:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/vensory-sweet-babytoy"/>
+    <title>Vensory Sweet babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/16_34fb2806-726c-4cf1-aade-f47765b01d4b.jpg?v=1598618678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            25.00 - 27.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/vensory-sweet-babytoy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>S / Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>S / Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>M / Black</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>M / Red</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>L / Black</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>L / Red</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420207204</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+    <published>2020-08-28T00:44:23-12:00</published>
+    <updated>2020-08-28T00:44:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/skillofun-junior-babytoy"/>
+    <title>Skillofun  Junior babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/20_5ee74f30-e2ea-4ad8-84fa-2e74d2cddcfe.jpg?v=1598618672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            65.00 - 66.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/skillofun-junior-babytoy">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>L / Green</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>L / Black</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>M / Green</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420174436</id>
+      <title>M / Black</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823420141668</id>
+    <published>2020-08-28T00:44:14-12:00</published>
+    <updated>2020-08-28T00:44:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/shake-spin-lion-babytoy"/>
+    <title>Shake Spin Lion babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/18_d4972c7f-c0c5-48cd-86a1-bb68678fa674.jpg?v=1598618662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420141668</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823420043364</id>
+    <published>2020-08-28T00:44:05-12:00</published>
+    <updated>2020-08-28T00:44:05-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/sensory-activity-babytoy"/>
+    <title>Sensory Activity babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/14_8eae6b1d-58b0-493d-b4c5-d85d93747404.jpg?v=1598618653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823420043364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419977828</id>
+    <published>2020-08-28T00:43:56-12:00</published>
+    <updated>2020-08-28T00:43:56-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/scoop-n-bath-babytoy"/>
+    <title>Scoop ’n Bath babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/12_c9b62e05-d33e-4c35-8f67-c154f780cdba.jpg?v=1598618645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419977828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419945060</id>
+    <published>2020-08-28T00:43:47-12:00</published>
+    <updated>2020-08-28T00:43:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/link-n-go-pack-babytoy"/>
+    <title>Link &apos;n Go  Pack babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/10_e48e99fe-920e-412d-bb1d-009952887684.jpg?v=1598618635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            15.00 - 16.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/link-n-go-pack-babytoy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419945060</id>
+      <title>S / Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419945060</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419945060</id>
+      <title>M / Red</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419945060</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419912292</id>
+    <published>2020-08-28T00:43:40-12:00</published>
+    <updated>2020-08-28T00:43:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/lee-sneakers-babytoy"/>
+    <title>Lee Sneakers babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/8_16aa0ba0-8379-46c7-8b8a-1f0939fdc960.jpg?v=1598618626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419912292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419879524</id>
+    <published>2020-08-28T00:43:33-12:00</published>
+    <updated>2020-08-28T00:43:33-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/hot-wheels-gift-babytoy"/>
+    <title>Hot Wheels Gift babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/6_5b3b965f-73c2-4390-a5ac-7797e6410b0c.jpg?v=1598618620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419879524</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+    <published>2020-08-28T00:43:24-12:00</published>
+    <updated>2020-08-28T00:43:24-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/critter-teddy-babytoy"/>
+    <title>Critter Teddy babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/4_36ff4ef7-9ca5-4961-b426-2ed4408c19c2.jpg?v=1598618611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            30.00 - 33.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/critter-teddy-babytoy">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>S / White</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>M / White</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>L / White</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>XL / White</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419846756</id>
+      <title>XL / Pink</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419813988</id>
+    <published>2020-08-28T00:43:16-12:00</published>
+    <updated>2020-08-28T00:43:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/crinkle-leaf-babytoy"/>
+    <title>Crinkle Leaf babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/2_45e45101-d690-4c18-981e-5f132fc1b510.jpg?v=1598618603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419813988</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419781220</id>
+    <published>2020-08-28T00:43:09-12:00</published>
+    <updated>2020-08-28T00:43:09-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/cosco-rio-size-babytoy"/>
+    <title>Cosco Rio Size babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/19_c690692e-f1a2-4f2a-8303-706b806bb268.jpg?v=1598618596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419781220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+    <published>2020-08-28T00:43:00-12:00</published>
+    <updated>2020-08-28T00:43:00-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/corporis-suscipit-babytoy"/>
+    <title>corporis suscipit babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/17_8b1cd19b-3086-4d72-adcb-bbac21ccee71.jpg?v=1598618587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00 - 52.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/corporis-suscipit-babytoy">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>S / White</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>S / Green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>M / White</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>M / Green</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419748452</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419715684</id>
+    <published>2020-08-28T00:42:52-12:00</published>
+    <updated>2020-08-28T00:42:52-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/comfort-vibe-babytoy"/>
+    <title>Comfort Vibe babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/15_3c4e97ac-ec1a-4879-acce-72569ee0e71a.jpg?v=1598618579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419715684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419682916</id>
+    <published>2020-08-28T00:42:44-12:00</published>
+    <updated>2020-08-28T00:42:44-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/comdaq-stroller-babytoy"/>
+    <title>Comdaq Stroller babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/13_9b899743-dec1-49de-868e-dec051ba9b5c.jpg?v=1598618571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            15.00 - 22.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/comdaq-stroller-babytoy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419682916</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419682916</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419682916</id>
+      <title>S / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419682916</id>
+      <title>L / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419650148</id>
+    <published>2020-08-28T00:42:35-12:00</published>
+    <updated>2020-08-28T00:42:35-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/classic-fisher-gift-babytoy"/>
+    <title>Classic Fisher Gift babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/11_c86505d7-0f22-4773-aa94-d62bc25f0c6c.jpg?v=1598618563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419650148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+    <published>2020-08-28T00:42:23-12:00</published>
+    <updated>2020-08-28T00:42:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/brown-cushion-babytoy"/>
+    <title>Brown cushion babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/9_c0422f81-ed6d-464c-9e25-e77efc022755.jpg?v=1598618552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            20.00 - 23.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/brown-cushion-babytoy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>M / Red</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>L / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>XL / Yellow</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419617380</id>
+      <title>XL / Orange</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419584612</id>
+    <published>2020-08-28T00:42:15-12:00</published>
+    <updated>2020-08-28T00:42:15-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/deuter-black-tour-bag-babytoy"/>
+    <title>Black Tour Bag babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/7_5725f73b-8a4a-4c0e-a1de-cdaaf1f701c7.jpg?v=1598618542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419584612</id>
+      <title>S / Green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419584612</id>
+      <title>M / Green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419584612</id>
+      <title>M / Red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419584612</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419551844</id>
+    <published>2020-08-28T00:42:08-12:00</published>
+    <updated>2020-08-28T00:42:08-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/authletic-stud-babytoy"/>
+    <title>Authletic Stud babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/5_2e48535f-b350-4211-8eca-1e9e96c0cbe3.jpg?v=1598618535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419551844</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419519076</id>
+    <published>2020-08-28T00:41:59-12:00</published>
+    <updated>2020-08-28T00:41:59-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/autem-euaiure-babytoy"/>
+    <title>autem euaiure babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/3_542ac6af-d80d-41bc-9a5e-18d5760b11ce.jpg?v=1598618526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            45.00 - 46.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/autem-euaiure-babytoy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419519076</id>
+      <title>M / Red</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419519076</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419519076</id>
+      <title>L / Red</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419519076</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/es/products/4823419486308</id>
+    <published>2020-08-28T00:41:50-12:00</published>
+    <updated>2020-08-28T00:41:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/es/products/aroma-mocha-babytoy"/>
+    <title>Aroma Mocha babytoy</title>
+    <s:type>babytoy</s:type>
+    <s:vendor>babytoy-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/1_2f288a5b-a0b0-4250-b64c-ad9d14f56794.jpg?v=1598618517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>babytoy-ishi<br>
+        <strong>Tipo: </strong>babytoy<br>
+        <strong>Precio: </strong>
+            50.00 - 52.00
+            <a href="https://toytown-ishi.myshopify.com/es/products/aroma-mocha-babytoy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babytoy_actionfigures</s:tag>
+    <s:tag>babytoy_puzzle</s:tag>
+    <s:tag>babytoy_teddy</s:tag>
+    <s:tag>brand_benjo</s:tag>
+    <s:tag>brand_kooky</s:tag>
+    <s:tag>brand_terra</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_S</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419486308</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419486308</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419486308</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/es/products/4823419486308</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

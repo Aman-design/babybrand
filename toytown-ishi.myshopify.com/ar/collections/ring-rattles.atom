@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ar" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://toytown-ishi.myshopify.com/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://toytown-ishi.myshopify.com/ar/collections/ring-rattles.atom"/>
+  <title>Toytown Sectioned Shopify Theme</title>
+  <updated>2019-01-29T22:09:54-12:00</updated>
+  <author>
+    <name>Toytown Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+    <published>2019-01-29T22:09:54-12:00</published>
+    <updated>2019-01-29T22:09:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/corporis-suscipit"/>
+    <title>corporis suscipit</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/9_b3e77726-5202-404b-af72-ed5d62f99cee.jpg?v=1569688061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            50.00 - 52.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/corporis-suscipit">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_purple</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>S / White</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>S / Green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>M / White</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>M / Green</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640775708772</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+    <published>2019-01-29T22:08:45-12:00</published>
+    <updated>2019-01-29T22:08:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/brown-cushion"/>
+    <title>Brown cushion</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/4_3dc6fd76-26bf-411d-9b98-52d3d4a2e9f4.jpg?v=1569688059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            13.00 - 32.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/brown-cushion">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>M / Red</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>L / Red</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>XL / Yellow</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640761618532</id>
+      <title>XL / Orange</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2640751788132</id>
+    <published>2019-01-29T22:07:50-12:00</published>
+    <updated>2019-01-29T22:07:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/authletic-stud"/>
+    <title>Authletic Stud</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/16_2941af15-e9e6-4b4e-8a58-8b372d7599ae.jpg?v=1569688044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_babyseats</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640751788132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2640739762276</id>
+    <published>2019-01-29T22:06:11-12:00</published>
+    <updated>2019-01-29T22:06:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/aroma-mocha"/>
+    <title>Aroma Mocha</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/11_cff07326-dcd6-4bbf-872c-5aaaaed2d798.jpg?v=1569688043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            48.00 - 52.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/aroma-mocha">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_babyseats</s:tag>
+    <s:tag>type_clothes</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640739762276</id>
+      <title>S / Red</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640739762276</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640739762276</id>
+      <title>M / Red</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640739762276</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+    <published>2019-01-29T22:04:12-12:00</published>
+    <updated>2019-01-29T22:04:12-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/autem-euaiure"/>
+    <title>autem euaiure</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/6_77ae39f9-4bec-4914-8b40-92e9f025948a.jpg?v=1569688041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            43.00 - 45.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/autem-euaiure">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_shoes</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>M / Red</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>M / Green</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>L / Red</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>L / Green</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>XL / Pink</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2640725246052</id>
+      <title>XL / Green</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+    <published>2019-01-16T21:11:25-12:00</published>
+    <updated>2019-01-16T21:11:25-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/sensory-sweet"/>
+    <title>Sensory Sweet</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/2_40145338-a379-4bcc-ad2b-9d9650e788f8.jpg?v=1569636111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            25.00 - 27.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/sensory-sweet">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_babyseats</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>S / Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>S / Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>M / Black</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>M / Red</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>L / Black</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>L / Red</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416208805988</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416195207268</id>
+    <published>2019-01-16T21:10:32-12:00</published>
+    <updated>2019-01-16T21:10:32-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/scoop-n-bath"/>
+    <title>Scoop ’n Bath</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/13_b73d4f2d-3f6d-4910-85cb-f843d67816ca.jpg?v=1569636095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416195207268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416183771236</id>
+    <published>2019-01-16T21:08:58-12:00</published>
+    <updated>2019-01-16T21:08:58-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/shake-spin-lion"/>
+    <title>Shake Spin Lion</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/7_1abc0e53-b872-4555-85ae-604f35863b8f.jpg?v=1569636117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_clothes</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416183771236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416157163620</id>
+    <published>2019-01-16T21:07:37-12:00</published>
+    <updated>2019-01-16T21:07:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/lee-sneakers"/>
+    <title>Lee Sneakers</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/3_cb4b9490-7b69-42ba-8753-bbccc23a8c31.jpg?v=1569636085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_clothes</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416157163620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416141271140</id>
+    <published>2019-01-16T21:04:51-12:00</published>
+    <updated>2019-01-16T21:04:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/link-n-go-pack"/>
+    <title>Link &apos;n Go  Pack</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/8_32a6e0ef-7842-4c52-9b2f-316944c1fd6a.jpg?v=1569636090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            15.00 - 16.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/link-n-go-pack">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416141271140</id>
+      <title>S / Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416141271140</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416141271140</id>
+      <title>M / Red</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416141271140</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+    <published>2019-01-16T21:02:30-12:00</published>
+    <updated>2019-01-16T21:02:30-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/skillofun-junior"/>
+    <title>Skillofun  Junior</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/12_f50b90a1-8c5e-4ded-bf53-ef138619a2e4.jpg?v=1569636120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_clothes</s:tag>
+    <s:tag>type_shoes</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>L / White</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>L / Green</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>L / Black</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>M / Green</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416085762148</id>
+      <title>M / Red</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416069148772</id>
+    <published>2019-01-16T21:01:17-12:00</published>
+    <updated>2019-01-16T21:01:17-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/hot-wheels-gift"/>
+    <title>Hot Wheels Gift</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/19.jpg?v=1569636080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_purple</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416069148772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+    <published>2019-01-16T20:59:55-12:00</published>
+    <updated>2019-01-16T20:59:55-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/comdaq-stroller"/>
+    <title>Comdaq Stroller</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/1_2dd8d611-3104-4462-947f-f16185bb8fa2.jpg?v=1569684479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            20.00 - 22.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/comdaq-stroller">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+      <title>XL / Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+      <title>S / Red</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416051781732</id>
+      <title>L / Green</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2416036708452</id>
+    <published>2019-01-16T20:58:34-12:00</published>
+    <updated>2019-01-16T20:58:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/crinkle-leaf"/>
+    <title>Crinkle Leaf</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/4_1d437bc1-a53f-493c-9e25-e156ab3e03c4.jpg?v=1569636062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>toy_teddies</s:tag>
+    <s:tag>type_clothes</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2416036708452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2415992275044</id>
+    <published>2019-01-16T20:55:39-12:00</published>
+    <updated>2019-01-16T20:55:39-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/deuter-black-tour-bag"/>
+    <title>Black Tour Bag</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/14.jpg?v=1569636072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            40.00 - 44.00
+            <a href="https://toytown-ishi.myshopify.com/ar/products/deuter-black-tour-bag">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_white</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_onesie</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_shoes</s:tag>
+    <s:tag>type_toys</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2415992275044</id>
+      <title>S / Red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2415992275044</id>
+      <title>S / Green</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2415992275044</id>
+      <title>M / Green</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2415992275044</id>
+      <title>M / Red</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://toytown-ishi.myshopify.com/ar/products/2415883386980</id>
+    <published>2019-01-16T20:45:45-12:00</published>
+    <updated>2019-01-16T20:45:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://toytown-ishi.myshopify.com/ar/products/classic-fisher-gift"/>
+    <title>Classic Fisher Gift</title>
+    <s:type>toy</s:type>
+    <s:vendor>Toytown Sectioned Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0199/7497/9684/products/1.jpg?v=1569636045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toytown Sectioned Shopify Theme<br>
+        <strong>Type: </strong>toy<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_xl</s:tag>
+    <s:tag>toy_ring</s:tag>
+    <s:tag>type_shoes</s:tag>
+    <s:variant>
+      <id>https://toytown-ishi.myshopify.com/ar/products/2415883386980</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

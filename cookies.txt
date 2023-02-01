@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+toytown-ishi.myshopify.com	TRUE	/en-gb	FALSE	1999999999	localization	GB
+toytown-ishi.myshopify.com	TRUE	/ar	FALSE	1999999999	localization	US
+toytown-ishi.myshopify.com	TRUE	/es	FALSE	1999999999	localization	US
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22IN%22%2C%22sale_of_data_region%22%3Afalse%7D
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	GBP
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_y	c9df9dc0-cccc-4ba5-bee9-0a69dd345bba
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_s	fd9c4774-eb0b-4460-bab3-c89596ea6e14
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	c9df9dc0-cccc-4ba5-bee9-0a69dd345bba
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	fd9c4774-eb0b-4460-bab3-c89596ea6e14
+toytown-ishi.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
